@@ -13,3 +13,5 @@
  - context-tutorial
    - 15장 React의 Context API 관련된 공부를 하였음.
    - context 의 선언 / 사용 방법, render props 패턴 개념, render props 보다 좀 더 편리하게 사용할 수 있는 useContext 에 대해 알게 되었음.
+ - vanilla-redux
+   - vanilla js 에서 redux를 활용해 상태관리하는 법에 대해 배웠음.
