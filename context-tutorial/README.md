@@ -7,6 +7,10 @@
 
 In the project directory, you can run:
 
+### `npm init`
+
+project에 필요한 module들 다운로드.
+
 ### `npm start`
 
 Runs the app in the development mode.\
