@@ -7,5 +7,5 @@
    - custom Hook 개발 (usePromise)
    - BrowseRouter 활용
  - context-tutorial
-   - React의 Context API 관련된 공부를 하였음.
+   - 15장 React의 Context API 관련된 공부를 하였음.
    - context 의 선언 / 사용 방법, render props 패턴 개념, render props 보다 좀 더 편리하게 사용할 수 있는 useContext 에 대해 알게 되었음.
