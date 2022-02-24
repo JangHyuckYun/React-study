@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+    color:#888;
+}
+
+.toggle {
+    border: 2px solid black;
+    width: 64px;
+    height: 64px;
+    border-radius: 32px;
+}
+
+.toggle.active {
+    background: yellow;
+}
